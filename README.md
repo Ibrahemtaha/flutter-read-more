@@ -1,6 +1,9 @@
 # readmore
 
-A new Flutter project.
+A Read More Click Flutter project.
+
+<img src="assets/readmore.png">
+<img src="assets/readless.png">
 
 ## Getting Started
 
