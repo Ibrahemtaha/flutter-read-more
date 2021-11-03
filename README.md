@@ -4,6 +4,8 @@ A Read More Click Flutter project.
 
 <img src="assets/readmore.png">
 <img src="assets/readless.png">
+![](assets/readmore.png)
+![](assets/readless.png)
 
 ## Getting Started
 
