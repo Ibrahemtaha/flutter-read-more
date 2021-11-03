@@ -2,8 +2,8 @@
 
 A Read More Click Flutter project.
 
-<img src="assets/readmore.png">
-<img src="assets/readless.png">
+<img alt="readmore" src="assets/readmore.png">
+<img alt="readless" src="assets/readless.png">
 ![ReamMore!](\assets\readmore.PNG)
 ![ReamMore!](\assets\readmore.PNG)
 
